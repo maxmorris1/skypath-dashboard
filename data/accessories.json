@@ -1,0 +1,191 @@
+[
+ {
+  "name": "Agarimoo Talisman",
+  "desc": "Agarimoo (Rift) drop",
+  "src": "Rift",
+  "mp": 5,
+  "cost": "400.0k"
+ },
+ {
+  "name": "Intimidation Ring",
+  "desc": "Upgrade from Intimidation Talisman",
+  "src": "Bone VII",
+  "mp": 2,
+  "cost": "300.0k"
+ },
+ {
+  "name": "Speed Artifact",
+  "desc": "Upgrade from Speed Ring",
+  "src": "Sugar Cane VIII",
+  "mp": 3,
+  "cost": "700.0k"
+ },
+ {
+  "name": "Blaze Talisman",
+  "desc": "Craft with Enchanted Blaze Rods",
+  "src": "Blaze Rod VII",
+  "mp": 5,
+  "cost": "1.2m"
+ },
+ {
+  "name": "Beastmaster Crest (Common)",
+  "desc": "Kill 20 Trophy Fish / Crimson mobs",
+  "src": "Crimson Isle",
+  "mp": 3,
+  "cost": "1.0m"
+ },
+ {
+  "name": "Lucky Hoof",
+  "desc": "Craft with Enchanted Horseshoes / Griffin drops",
+  "src": "Diana event",
+  "mp": 12,
+  "cost": "4.0m"
+ },
+ {
+  "name": "Mineral Talisman",
+  "desc": "Craft with Enchanted Hard Stone + Fine Jasper",
+  "src": "Hard Stone IX",
+  "mp": 8,
+  "cost": "3.0m"
+ },
+ {
+  "name": "Candy Artifact",
+  "desc": "Upgrade from Candy Ring",
+  "src": "",
+  "mp": 4,
+  "cost": "2.0m"
+ },
+ {
+  "name": "Tarantula Talisman",
+  "desc": "Craft with Digested Mosquito",
+  "src": "Spider Slayer 7",
+  "mp": 12,
+  "cost": "6.0m"
+ },
+ {
+  "name": "Blue Jerry Talisman",
+  "desc": "Upgrade from Green Jerry Talisman",
+  "src": "",
+  "mp": 3,
+  "cost": "1.5m"
+ },
+ {
+  "name": "Nether Artifact",
+  "desc": "Craft with Enchanted Netherrack + Crimson Isle materials",
+  "src": "Netherrack IX",
+  "mp": 12,
+  "cost": "6.0m"
+ },
+ {
+  "name": "Feather Artifact",
+  "desc": "Upgrade from Feather Ring",
+  "src": "Feather IX",
+  "mp": 3,
+  "cost": "1.6m"
+ },
+ {
+  "name": "Burststopper Talisman",
+  "desc": "Craft with Enchanted Sulphur Cubes",
+  "src": "Sulphur IX",
+  "mp": 8,
+  "cost": "5.0m"
+ },
+ {
+  "name": "Potion Affinity Artifact",
+  "desc": "Upgrade from Potion Affinity Ring",
+  "src": "Nether Wart IX",
+  "mp": 3,
+  "cost": "2.0m"
+ },
+ {
+  "name": "Red Claw Artifact",
+  "desc": "Upgrade from Red Claw Ring",
+  "src": "Wolf Slayer 5",
+  "mp": 4,
+  "cost": "3.0m"
+ },
+ {
+  "name": "Wolf Ring",
+  "desc": "Upgrade from Wolf Talisman",
+  "src": "Wolf Slayer 3",
+  "mp": 5,
+  "cost": "4.0m"
+ },
+ {
+  "name": "Zombie Artifact",
+  "desc": "Upgrade from Zombie Ring",
+  "src": "Zombie Slayer 6",
+  "mp": 4,
+  "cost": "3.5m"
+ },
+ {
+  "name": "Spider Artifact",
+  "desc": "Upgrade from Spider Ring",
+  "src": "Spider Slayer 5",
+  "mp": 4,
+  "cost": "4.0m"
+ },
+ {
+  "name": "Personal Compactor 6000",
+  "desc": "Upgrade from Personal Compactor 5000",
+  "src": "Redstone IX",
+  "mp": 4,
+  "cost": "4.0m"
+ },
+ {
+  "name": "Agarimoo Artifact",
+  "desc": "Upgrade from Agarimoo Talisman",
+  "src": "Rift",
+  "mp": 7,
+  "cost": "8.0m"
+ },
+ {
+  "name": "Beastmaster Crest (Rare)",
+  "desc": "Upgrade from Beastmaster Crest (Common)",
+  "src": "Crimson Isle",
+  "mp": 5,
+  "cost": "6.0m"
+ },
+ {
+  "name": "Sea Creature Artifact",
+  "desc": "Upgrade from Sea Creature Ring",
+  "src": "Sponge IX",
+  "mp": 3,
+  "cost": "4.0m"
+ },
+ {
+  "name": "Intimidation Artifact",
+  "desc": "Upgrade from Intimidation Ring",
+  "src": "Bone IX",
+  "mp": 3,
+  "cost": "5.0m"
+ },
+ {
+  "name": "Great Spook Artifact",
+  "desc": "Great Spook event (Spooky Festival)",
+  "src": "Spooky Festival",
+  "mp": 12,
+  "cost": "20.0m"
+ },
+ {
+  "name": "Dante Talisman",
+  "desc": "Dante Mayor (unavailable, AH only)",
+  "src": "",
+  "mp": 12,
+  "cost": "20.0m"
+ },
+ {
+  "name": "Purple Jerry Talisman",
+  "desc": "Upgrade from Blue Jerry Talisman",
+  "src": "",
+  "mp": 4,
+  "cost": "8.0m"
+ },
+ {
+  "name": "Power Artifact",
+  "desc": "Craft with Fine Gems (all types)",
+  "src": "Every Gemstone Collection",
+  "mp": 12,
+  "cost": "25.0m"
+ }
+]

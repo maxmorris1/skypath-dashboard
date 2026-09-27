@@ -1,0 +1,268 @@
+{
+ "profile": {
+  "username": "SkyPathDemo",
+  "profileName": "Mango",
+  "level": 187,
+  "stage": "Mid Game",
+  "gamemode": "Normal",
+  "purse": 18400000,
+  "bank": 142000000,
+  "networth": 612000000,
+  "cata": 27,
+  "mp": 612,
+  "hotm": 6,
+  "skills": {
+   "combat": 32,
+   "mining": 35,
+   "farming": 28,
+   "foraging": 22,
+   "fishing": 26,
+   "enchanting": 40,
+   "alchemy": 30,
+   "taming": 24,
+   "carpentry": 20
+  },
+  "slayers": {
+   "zombie": 6,
+   "spider": 5,
+   "wolf": 5,
+   "enderman": 4,
+   "blaze": 2,
+   "vampire": 1
+  },
+  "updatedAt": 1790435554142
+ },
+ "snapshots": [
+  {
+   "date": "Sep 26",
+   "value": 612000000,
+   "delta": "-23.2m"
+  },
+  {
+   "date": "Sep 25",
+   "value": 635160000,
+   "delta": "+10.7m"
+  },
+  {
+   "date": "Sep 24",
+   "value": 624460000,
+   "delta": "+11.0m"
+  },
+  {
+   "date": "Sep 23",
+   "value": 613450000,
+   "delta": "+8.5m"
+  },
+  {
+   "date": "Sep 22",
+   "value": 604920000,
+   "delta": "+11.2m"
+  },
+  {
+   "date": "Sep 21",
+   "value": 593730000,
+   "delta": "+6.6m"
+  },
+  {
+   "date": "Sep 20",
+   "value": 587170000,
+   "delta": "+10.5m"
+  },
+  {
+   "date": "Sep 19",
+   "value": 576650000,
+   "delta": "+5.0m"
+  },
+  {
+   "date": "Sep 18",
+   "value": 571640000,
+   "delta": "+11.0m"
+  },
+  {
+   "date": "Sep 17",
+   "value": 560630000,
+   "delta": null
+  }
+ ],
+ "goals": [
+  {
+   "id": "cata30",
+   "title": "Reach Catacombs 30 for M-floor gear",
+   "cat": "dungeons",
+   "priority": "high",
+   "method": "Run F7 / M3 with a full team; use Bonzo/Spirit masks.",
+   "current": 27,
+   "target": 30,
+   "unit": "level",
+   "eta": "2.1d",
+   "etaHours": "16.7h at 3h/day",
+   "done": false,
+   "rationale": "F7 gives ~2x the XP of F6. Master Mode M3 is better once you can survive it.",
+   "destination": "Dungeon Hub → Catacombs F7 / Master Mode",
+   "steps": [
+    {
+     "id": "c1",
+     "title": "Clear F6 until it is consistent",
+     "done": true
+    },
+    {
+     "id": "c2",
+     "title": "Move up to F7 — roughly 2x the XP of F6",
+     "done": false
+    },
+    {
+     "id": "c3",
+     "title": "Try Master Mode M3 once you can survive it",
+     "done": false
+    }
+   ]
+  },
+  {
+   "id": "hyperion",
+   "title": "Save for Hyperion",
+   "cat": "coins",
+   "priority": "high",
+   "method": "Bazaar flip on the side while doing Diana events.",
+   "current": 160.4,
+   "target": 900,
+   "unit": "coins",
+   "eta": "4.7d",
+   "etaHours": "1.6d at 3h/day",
+   "done": false,
+   "rationale": "Wither Impact is the single biggest clear-speed and quality-of-life jump in the game.",
+   "destination": "Auction House / Bazaar",
+   "steps": [
+    {
+     "id": "h1",
+     "title": "Bank 600m coins",
+     "done": false
+    },
+    {
+     "id": "h2",
+     "title": "Buy a Necron's Blade (Wither Impact)",
+     "done": false
+    }
+   ]
+  },
+  {
+   "id": "eman7",
+   "title": "Enderman Slayer 7",
+   "cat": "slayer",
+   "priority": "medium",
+   "method": "",
+   "current": 4,
+   "target": 7,
+   "unit": "level",
+   "eta": "6.3d",
+   "etaHours": "2.1d at 3h/day",
+   "done": false,
+   "rationale": "Eman 7 unlocks the Terminator, a core mid-game damage upgrade.",
+   "destination": "The End → Void Sepulture",
+   "steps": [
+    {
+     "id": "e1",
+     "title": "Grind T3 Voidgloom Seraphs",
+     "done": false
+    },
+    {
+     "id": "e2",
+     "title": "Craft Final Destination armour",
+     "done": false
+    }
+   ]
+  },
+  {
+   "id": "mp800",
+   "title": "Magical Power 800",
+   "cat": "accessory",
+   "priority": "medium",
+   "method": "Focus on cheap epic/legendary talismans first.",
+   "current": 612,
+   "target": 800,
+   "unit": "MP",
+   "eta": null,
+   "etaHours": null,
+   "done": false,
+   "rationale": "Magical Power is the cheapest stat bulk in the game.",
+   "destination": "Hub → Maxwell",
+   "steps": [
+    {
+     "id": "m1",
+     "title": "Recombobulate cheap accessories first",
+     "done": false
+    },
+    {
+     "id": "m2",
+     "title": "Buy missing talismans from the auction house",
+     "done": false
+    }
+   ]
+  }
+ ],
+ "advisor": [
+  {
+   "title": "Get a Term / Necron's Blade path started",
+   "impact": 8,
+   "effort": 4,
+   "cost": "200.0m",
+   "desc": "Terminator (~200m) or Wither Blade gear are the biggest single upgrades for mid-game dungeon and slayer players."
+  },
+  {
+   "title": "Catacombs 27 → 30",
+   "impact": 7,
+   "effort": 6,
+   "cost": null,
+   "desc": "Cata 30 lets you run early Master Mode floors for essence and Master Star profits."
+  },
+  {
+   "title": "Enderman Slayer 4 → 7",
+   "impact": 7,
+   "effort": 7,
+   "cost": null,
+   "desc": "Eman slayer gives the best Combat XP/hour and Judgement Core / Exceedingly Rare drops fund late-game upgrades."
+  },
+  {
+   "title": "Heart of the Mountain 6 → 7",
+   "impact": 6,
+   "effort": 6,
+   "cost": null,
+   "desc": "HOTM 7 unlocks Mineshafts and the strongest gemstone powder perks. Massive mining income boost."
+  },
+  {
+   "title": "Farming 28 → 30",
+   "impact": 5,
+   "effort": 4,
+   "cost": null,
+   "desc": "Farming is the most reliable early money + Farming Contest medals for Anita's upgrades."
+  },
+  {
+   "title": "Revenant Slayer 6 → 7",
+   "impact": 5,
+   "effort": 5,
+   "cost": null,
+   "desc": "Rev 7 unlocks Reaper gear & Crooked Artifact recipe; Rev is the cheapest slayer to level and drops valuable Revenant Flesh."
+  }
+ ],
+ "bazaar": [
+  {
+   "name": "Kismet Feather",
+   "delta": "+4.2m"
+  },
+  {
+   "name": "Blue Ice Hunk",
+   "delta": "+9.8m"
+  }
+ ],
+ "accessoriesOwned": [],
+ "roadmapOverrides": {},
+ "bridge": {
+  "tokenHash": null,
+  "createdAt": null,
+  "revoked": true
+ },
+ "pendingCodes": {},
+ "state": null,
+ "lastStateAt": null,
+ "focusGoalId": null,
+ "notifications": false
+}
